@@ -30,7 +30,7 @@ these data items.
 The size of pre-processing the images can be changed in the Data Preparation.ipynb ** Note by changing the size of the pre-processed images architecute of GAN has to be tweaked accordingly.
 The save interval and the batch size can also be changed in the DCGAN.py file.
 
-The already pre-processed dataset can be found [here]() and the pre-trained models can be found [here](https://drive.google.com/open?id=1f2oxsDzZpLCqF2XKQO6hVQONY1duG0m3)
+The already pre-processed dataset can be found [here](https://drive.google.com/open?id=1NABm6XTteqCn6JKbuaK4WuwTfDrDR13h) and the pre-trained models can be found [here](https://drive.google.com/open?id=1f2oxsDzZpLCqF2XKQO6hVQONY1duG0m3)
 
 
 ## Software Requirements
@@ -48,6 +48,8 @@ The already pre-processed dataset can be found [here]() and the pre-trained mode
 • h5py
 • Scipy
 • Requirements required for running [HyperGAN](https://github.com/255BITS/HyperGAN) -- To test as a benchmark.
+
+
 
 ## License
 
