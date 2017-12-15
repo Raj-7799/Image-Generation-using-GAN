@@ -34,10 +34,8 @@ The already pre-processed dataset can be found [here](https://drive.google.com/o
 
 
 ## Software Requirements
-1. OS
-<li>
-• Windows / Mac OS / Linux
-</li>
+1. OS Windows / Mac OS / Linux
+
 2. Software
 <li>Python 3.5 or higher.</li>
 <li>Tensorflow --suggested to use Tensorflow-gpu</li>
