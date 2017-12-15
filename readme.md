@@ -23,11 +23,11 @@ these data items.
 1. Clone the entire repositry.
 2. Download the aligned and cropped dataset from [here](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
 3. Open the Data preparation Jupyter notebook and run each cell to compile the entire dataset into a single numpy array.
-4. Run the DCGAN.py to start the training process.
+4. Run the `DCGAN.py` to start the training process.
 5. The results will be stored in the Output folder and the models after every 10,000 epoch will be stored in the models folder.
-6. After training, run Plotting Graphs.py file to plot the graphs of generator and discriminator losses and the accuracy of the discriminator.
+6. After training, run `Plotting Graphs.py` file to plot the graphs of generator and discriminator losses and the accuracy of the discriminator.
 
-The size of pre-processing the images can be changed in the Data Preparation.ipynb ** Note by changing the size of the pre-processed images architecute of GAN has to be tweaked accordingly.
+The size of pre-processing the images can be changed in the Data Preparation.ipynb. Note by changing the size of the pre-processed images architecute of GAN has to be tweaked accordingly.
 The save interval and the batch size can also be changed in the DCGAN.py file.
 
 The already pre-processed dataset can be found [here](https://drive.google.com/open?id=1NABm6XTteqCn6JKbuaK4WuwTfDrDR13h) and the pre-trained models can be found [here](https://drive.google.com/open?id=1f2oxsDzZpLCqF2XKQO6hVQONY1duG0m3)
@@ -35,19 +35,20 @@ The already pre-processed dataset can be found [here](https://drive.google.com/o
 
 ## Software Requirements
 1. OS
+<li>
 • Windows / Mac OS / Linux
-
+</li>
 2. Software
-• Python 3.5 or higher.
-• Tensorflow --suggested to use Tensorflow-gpu
-• Keras
-• OpenCV
-• Numpy
-• Matplotlib
-• Pillow
-• h5py
-• Scipy
-• Requirements required for running [HyperGAN](https://github.com/255BITS/HyperGAN) -- To test as a benchmark.
+<li>Python 3.5 or higher.</li>
+<li>Tensorflow --suggested to use Tensorflow-gpu</li>
+<li>Keras</li>
+<li>OpenCV</li>
+<li>Numpy</li>
+<li>Matplotlib</li>
+<li>Pillow</li>
+<li>h5py</li>
+<li>Scipy</li>
+<li>Requirements required for running</li> [HyperGAN](https://github.com/255BITS/HyperGAN) -- To test as a benchmark.
 
 ## Architecture
 ![](DCGAN.png)
@@ -55,4 +56,3 @@ The already pre-processed dataset can be found [here](https://drive.google.com/o
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
