@@ -1,4 +1,4 @@
-# MLND Capstone Project : Image Generation using Deep Convolutional GAN
+# Image Generation using Deep Convolutional GAN
 This project was built as a capstone project for the Machine Learning Engineer Nanodegree. In this project I use, a deep learning approach to generate human faces. The technique used is called Deep Convolutional Generative Adverserial
 Network, which uses a Convolutional neural network as a discriminator and a deconvolutional neural network is as a generator.
 The whole idea behind GAN is to have a zero-sum game framework by using two neural networks contesting
