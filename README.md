@@ -48,10 +48,9 @@ The already pre-processed dataset can be found [here](https://drive.google.com/o
 <li>h5py</li>
 <li>Scipy</li>
 <li>Requirements required for running</li> 
-[HyperGAN](https://github.com/255BITS/HyperGAN) -- To test as a benchmark.
 
 ## Architecture
-![](DCGAN.png)
+![DCGAN Architecture](DCGAN.png)
 
 ## License
 
